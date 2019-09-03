@@ -1,7 +1,3 @@
-# olympic-channel
-
-> OlympicChannel
-
 ## Build Setup
 
 ``` bash
